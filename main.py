@@ -1,7 +1,6 @@
 import requests
 from aiogram import Bot, Dispatcher, types, executor
 
-TELEGRAM_TOKEN = '5162433493:AAGrgFTSmx028s902PI51AvrZP8bOxtjpSo'
 WHEATHER_API_KEY = 'e70b3d12e10d1735e93d7770e126a258'
 
 bot = Bot(token = TELEGRAM_TOKEN)
